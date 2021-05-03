@@ -3,7 +3,7 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> *** About me ....***
 
 ✔ I am a student of **Informatics Engineering** 😊 <br>
-✔ I am currently developing a **javascript App quiz**😉
+✔ I am currently developing a **javascript App quiz**😉<br>
 ✔I am currently learning more about **Javascript**🥰<br>
 ✔Feel free to **clone**, make **comments**, make **suggestions for improvements**🥰<br><br>
 <p align="center">
